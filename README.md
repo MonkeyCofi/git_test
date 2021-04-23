@@ -1,1 +1,1 @@
-This is Pierce's first git project
+This is monkey's first git project
